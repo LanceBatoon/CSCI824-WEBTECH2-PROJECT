@@ -18,4 +18,5 @@ It uses PHP, CSS, Javascript, MySQL, and AJAX
 # INSTRUCTIONS
 XAMPP must be installed
 Database must be placed in the correct location OR database connectivity code in 'connect.php' must be modified.
+ZIP file must be unzipped inside the htdocs folder of your XAMP installation.
 'main.php' must be launched first through localhost in order to properly access the rest of the website.
